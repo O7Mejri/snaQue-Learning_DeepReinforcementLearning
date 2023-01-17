@@ -1,4 +1,4 @@
-# snaQue-Learning_DeepReinforcementLearning
+# snaQue-Learning Deep Reinforcement Learning
 ## Snake bot learns to play using Deep Q Learnining with Reinforcement Learning
 
 - Neural Network:
